@@ -1,0 +1,7 @@
+# 0x00. Shell, introducción
+
+Proyecto de introducción a la shell de Linux (Bash). Contiene scripts basicos que resuelven tareas de navegacion y manejo del sistema de archivos.
+
+## Archivos
+
+- 0-current_working_directory: imprime el nombre de ruta absoluto del directorio de trabajo actual.

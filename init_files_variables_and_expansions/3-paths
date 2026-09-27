@@ -1,0 +1,4 @@
+#!/bin/bash
+printf "
+" "$PATH" | tr ":" "
+" | wc -l
